@@ -27,7 +27,7 @@ return {
     [".dockercfg"] = { "Docker", "docker" },
     [".dockerfile"] = { "Docker", "docker" },
     [".dockerignore"] = { "Docker", "docker" },
-    [".env"] = { ".env", "https://i.ibb.co/Ssm7tWR/env-new-icon.png" },
+    [".env"] = { "Editing a ENV file", "https://i.ibb.co/Ssm7tWR/env-new-icon.png" },
     [".editorconfig"] = { "EditorConfig", "editorconfig" },
     [".eslintignore"] = { "ESLint", "eslint" },
     [".eslintrc"] = { "ESLint", "eslint" },
